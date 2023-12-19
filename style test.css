@@ -1,0 +1,21 @@
+#entete {
+    font-size: 35px;
+    color: gray;
+}
+
+#presentation h1 {
+    font-size: 25px;
+    color: red;
+}
+
+div#image_apres_titre { text-align: center;}
+#image_apres_titre img { width: 900px; height: 200px; margin: 20px; border: 1px solid; }
+
+#emplacement_sommaire{
+    font-size: 20px;
+    color: black;
+}
+
+#global{
+    background-color: aqua;
+}
